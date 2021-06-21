@@ -1,0 +1,21 @@
+Data set source:
+https://github.com/jookriha/M_Spheres_Dataset_Generator
+
+Description: 
+Generates multidimensional random points that are on the
+M-dimensional sphere centered on c with radius of d. 
+
+Reference:
+J. Hämäläinen, T. Kärkkäinen, and T. Rossi, "Improving scalable k-
+means++", Algorithms, 14(1), 2021.
+
+BibTex:
+@article{hamalainen,
+	author = {Hämäläinen, J. and Kärkkäinen, T. and Rossi, T.},
+	title = {Improving Scalable K-Means++},
+	journal = {Algorithms},
+	volume = {14},
+	number = {1},	
+	year = {2021}
+}
+

@@ -1,0 +1,21 @@
+Data set sources and descriptions:
+Breast Tissue: https://archive.ics.uci.edu/ml/datasets/Breast+Tissue
+Ecoli: https://archive.ics.uci.edu/ml/datasets/Ecoli
+Glass: https://archive.ics.uci.edu/ml/datasets/glass+identification
+Iris: https://archive.ics.uci.edu/ml/datasets/iris
+Parkinsons: https://archive.ics.uci.edu/ml/datasets/Parkinsons
+Sonar: http://archive.ics.uci.edu/ml/datasets/connectionist+bench+(sonar,+mines+vs.+rocks)
+Wine: https://archive.ics.uci.edu/ml/datasets/wine
+
+Reference: 
+D. Dua and C. Graff. UCI machine learning repository, 2017.
+
+BibTex:
+@misc{dua2019,
+    author = {Dua, D. and Graff, C.},
+    title = {{UCI} Machine Learning Repository},
+    year = {2017},	
+    url = {http://archive.ics.uci.edu/ml},
+    institution = {University of California, Irvine, School of Information 
+                   and Computer Sciences}}
+

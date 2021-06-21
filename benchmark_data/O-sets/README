@@ -1,0 +1,23 @@
+Data set source: 
+http://users.jyu.fi/~mapeniem/CVI/Data/  
+
+Description:
+Synthetic two dimensional data with five (K = 5) Gaussian and Laplacian 
+distributed clusters with different degree of cluster overlap and noise. 
+O200 consists of 200 observations and O2000 consists of 2000 observations.  
+
+Reference: 
+M. Niemelä, S. Äyrämö, and T. Kärkkäinen, "Comparison of cluster validation 
+    indices with missing data" In Proceedings of the 26th European Symposium on 
+    Artificial Neural Networks, Computational Intelligence and Machine Learning. 
+    ESANN, 2018, pp. 461 - 466.
+
+BibTex:
+@inproceedings{esann2018,
+    author = {Niemel{\" a}, M. and {\" A}yr{\" a}m{\" o}, S. and K{\" a}rkk{\" a}inen, T.},
+    title = {Comparison of cluster validation indices with missing data},	
+    booktitle = {Proceedings of the 26th European Symposium on Artificial 
+                 Neural Networks, Computational Intelligence and Machine Learning},
+    publisher = {ESANN},
+    pages = {461-466},
+    year = {2018}}

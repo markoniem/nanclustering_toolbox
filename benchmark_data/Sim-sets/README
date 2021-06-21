@@ -1,0 +1,54 @@
+Data set source: 
+http://users.jyu.fi/~mapeniem/CVI/Data/ 
+
+Description:
+Synthetic two dimensional data with Gaussian clusters and different degree 
+of cluster overlap and noise. Sim2D2 consists of two clusters (K = 2) and 
+2000 observations and Sim5D2 consists of five clusters (K = 5) and 2970 
+observations.  
+
+Refereces: 
+S. Jauhiainen and T. Kärkkäinen, "A simple cluster validation index with maximal 
+    coverage" In Proceedings of the 25th European Symposium on Artificial Neural 
+    Networks, Computational Intelligence and Machine Learning. ESANN, 2017, pp. 
+    pages 293 - 298.
+J. Hämäläinen, S. Jauhiainen, and T. Kärkkäinen, "Comparison of internal 
+    clustering validation indices for prototype-based clustering" Algorithms, 
+    vol. 10, no. 3, 2017.
+M. Niemelä, S. Äyrämö, and T. Kärkkäinen, "Comparison of cluster validation 
+    indices with missing data" In Proceedings of the 26th European Symposium on 
+    Artificial Neural Networks, Computational Intelligence and Machine Learning. 
+    ESANN, 2018, pp. 461 – 466.
+
+BibTex:
+@inproceedings{esann2017,
+	author = {Jauhiainen, S. and K{\" a}rkk{\" a}inen, T.}, 
+	title = {A Simple Cluster Validation Index with Maximal Coverage}, 
+	booktitle = {Proceedings of the 25th European Symposium on Artificial 
+		Neural Networks, Computational Intelligence and Machine Learning},
+	publisher = {ESANN},
+	pages = {293-298},
+	year = {2017}
+}
+@article{algorithms,
+	author = {H{\" a}m{\" a}l{\" a}inen, J. and Jauhiainen, S. and 
+        K{\" a}rkk{\" a}inen, T.},  	
+	title = {Comparison of internal clustering validation indices for 
+		prototype-based clustering},
+	journal = {Algorithms},
+	publisher = {MDPI},
+	volume = {10},
+	number = {3},
+	pages = {},
+	year = {2017}
+}
+@inproceedings{esann2018,
+	author = {Niemel{\" a}, M. and {\" A}yräm{\" o}, S. and 
+        K{\" a}rkk{\" a}inen, T.},
+	title = {Comparison of cluster validation indices with missing data},	
+	booktitle = {Proceedings of the 26th European Symposium on Artificial 
+		Neural Networks, Computational Intelligence and Machine Learning},
+	publisher = {ESANN},
+	pages = {461-466},
+	year = {2018}
+}

@@ -1,0 +1,15 @@
+Reference data origin from paper:
+M. Niemelä and T. Kärkkäinen, "Improving clustering and cluster validation 
+    with missing data using distance estimation methods," In: Computational 
+    Sciences and Artificial Intelligence in Industry: New digital technologies 
+    for solving future societal and economical challenges, Intelligent Systems, 
+    Control and Automation: Science and Engineering. Springer Verlag, 2021. 
+    (12 pages, to appear).
+
+Description:
+Data include min-max normalized, synthetic, S, Sim, and O data sets in a cell array. 
+First cell is for different data sets (given in order S1, S2, S3, S4, Sim5D2, Sim2D2, 
+O200, and O2000) and second cell is for different percentages (0, 5, 10, and 20%) of 
+missing values generated to data. Values are missing completely at random (MCAR). 
+Note that fully incomplete observations are discarded.  
+

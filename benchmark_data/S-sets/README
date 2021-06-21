@@ -1,0 +1,22 @@
+Data set source: 
+http://cs.joensuu.fi/sipu/datasets/ 
+
+Description: 
+Synthetic two dimensional data with 5000 observations and fifteen 
+(K = 15) Gaussian clusters with different degree of cluster overlap.
+
+Reference:
+P. Fränti and S. Sieranoja, "K-means properties on six clustering 
+    benchmark datasets" Applied Intelligence, 48 (12), 4743-4759, 
+    December 2018
+
+BibTex:
+@misc{ClusteringDatasets,
+	author = {Pasi Fr\"anti and Sami Sieranoja},
+	title = {K-means properties on six clustering benchmark datasets},
+	year = {2018},
+	volume  = {48},
+	number  = {12},
+	pages   = {4743-4759},
+	url = {http://cs.uef.fi/sipu/datasets/}
+}
