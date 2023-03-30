@@ -12,5 +12,4 @@
 - **partB_rmse_results:** computes RMSE errors between real centroids used in initialization of K-spatial-medians clustering and centroids obtained with K-means++ initialization of K-spatial-medians clustering. Experiments are performed using clustering based on ADS, EED, and EED-ADS distance computation methods. Results are available in [**partB_rmse_results**](partB_rmse_results/). See detailed description of experiments in [**Distance_estimation_in_clustering.pdf**](Distance_estimation_in_clustering.pdf).       
 - **partC_validate_multiDim_data:** utilizes cluster validation for multidimensional data with missing values. Experiments are performed for data sets with various dimensionalities (M=10-100) and cluster overlap (dc=0.6-0.9). Results are in [**partC_Results.xlsx**](partC_Results.xlsx).  
 
-#### Prototype-based clustering with distance estimation ####
 
