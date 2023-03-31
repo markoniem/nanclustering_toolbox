@@ -70,7 +70,10 @@ for i = 1:length(datasets)
     end
 end
 save('centroids.mat','centroids');
+save('labels.mat','labels');
 save('realCentersArr.mat','realCentersArr');
+save('realLabelsArr.mat','realLabelsArr');
+
 %
 %
 rmse_errors = zeros(length(datasets),repetitions,4);
