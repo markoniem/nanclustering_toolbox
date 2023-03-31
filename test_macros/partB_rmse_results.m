@@ -17,7 +17,7 @@ clear, clc, close all;
 addpath('../datasets');
 addpath('../toolbox/general');
 addpath('../toolbox/clustering');
-load('realCenters');
+load('real_centers');
 %
 params = parameters();
 datasets = params.datasets;
