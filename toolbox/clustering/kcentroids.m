@@ -289,8 +289,9 @@ while any(L ~= L1)
         l = L==i;
         if sum(l) < 1
             success = 0;
+        else
+            C(i,:) = centFun(X(l,:),C(i,:),weights(l),Xi(l,:),sx(l,:));
         end
-        C(i,:) = centFun(X(l,:),C(i,:),weights(l),Xi(l,:),sx(l,:));
     end
     L = distFuncp1(C,X,Xi,sx);
     iter = iter + 1;
